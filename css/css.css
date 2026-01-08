@@ -783,6 +783,8 @@ text-transform: uppercase;
     border-width: 1px;
     border-color: #30CD8A;
    padding: 10px;
+   color: white;
+   text-align: start;
 }
 #div5 label{
 
