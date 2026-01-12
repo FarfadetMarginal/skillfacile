@@ -4,3 +4,7 @@
 
 ## descritpion, en gros on a fait un site à partir d'un modèle
 ------------
+
+## Authors
+
+  - **Baptiste COUTAS** - 
